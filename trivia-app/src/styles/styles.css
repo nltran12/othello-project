@@ -1,0 +1,68 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 10px;
+}
+
+h2 {
+    font-family: 'Roboto Mono', monospace;
+    color: #616060;
+}
+
+.warning-text {
+    color: #cc0909;
+}
+
+.top-padding {
+    padding-top: 1em;
+}
+
+.bottom-padding {
+    padding-bottom: 1em;
+}
+
+.question-text {
+    font-size: 20px;
+    padding-top: 0.5em;
+}
+
+.answer-padding {
+    padding-top: 1em;
+}
+
+.question-border {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #757575;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+.border-spacing {
+    padding: 2em;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.right-spacing {
+    margin-right: 10px;
+}
+.left-spacing {
+    margin-left: 30px;
+}
+
+.game-over-text {
+    text-align: center;
+    color: #cc0909;
+    font-size: 60px;
+}
+
+.rules-header-text {
+    font-size: 1.5em;
+    font-weight: bold;
+}

@@ -1,0 +1,8 @@
+export const SET_NUM_QUESTIONS = "SET_NUM_QUESTIONS";
+export const SET_DIFFICULTY = "SET_DIFFICULTY";
+export const SET_CATEGORY = "SET_CATEGORY";
+export const SET_PLAY_MODE = "SET_PLAY_MODE";
+export const UPDATE_DATA = "UPDATE_DATA";
+export const UPDATE_PAGE = "UPDATE_PAGE";
+export const VALIDATE_URL = "VALIDATE_URL";
+
